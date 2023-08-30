@@ -69,7 +69,7 @@ This section contains a list of projects with brief descriptions.
 <br>
   
 ## Certificates
-* [Google Data Analytics Certificate]([Link TBC](https://skillshop.exceedlms.com/student/award/rw6Jd41chZxbHksTmP1CYygU)) - Google Analytics, 2023
+* [Google Data Analytics Certificate]([Certificate Link](https://skillshop.exceedlms.com/student/award/rw6Jd41chZxbHksTmP1CYygU)) - Google Analytics, 2023
 
 ## Contacts
 * Linkedin: [https://www.linkedin.com/in/annie-chen-0506/](https://www.linkedin.com/in/annie-chen-0506/)
