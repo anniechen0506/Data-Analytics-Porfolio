@@ -5,7 +5,7 @@ Hi, my name is Annie Chen and I am currently pursuing my Master's degree in Busi
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
 I have a background in digital marketing and business data analysis.
 
-You can see more information in my [**CV**](CV Link).
+You can see more information in my [**CV**]([CV Link](https://github.com/anniechen0506/Data-Analytics-Porfolio/blob/main/Annie%20Chen%20Resume.pdf)).
 <br>
 
 <br>
@@ -69,7 +69,7 @@ This section contains a list of projects with brief descriptions.
 <br>
   
 ## Certificates
-* [Google Data Analytics Certificate](Link TBC) - Coursera, 2023
+* [Google Data Analytics Certificate]([Link TBC](https://skillshop.exceedlms.com/student/award/rw6Jd41chZxbHksTmP1CYygU)) - Google Analytics, 2023
 
 ## Contacts
 * Linkedin: [https://www.linkedin.com/in/annie-chen-0506/](https://www.linkedin.com/in/annie-chen-0506/)
