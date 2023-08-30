@@ -5,7 +5,7 @@ Hi, my name is Annie Chen and I am currently pursuing my Master's degree in Busi
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
 I have a background in digital marketing and business data analysis.
 
-You can see more information in my ([**CV**](https://github.com/anniechen0506/Data-Analytics-Porfolio/blob/main/Annie%20Chen%20Resume.pdf)).
+You can see more information in my [**CV**](https://github.com/anniechen0506/Data-Analytics-Porfolio/blob/main/Annie%20Chen%20Resume.pdf).
 <br>
 
 <br>
