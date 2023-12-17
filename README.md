@@ -73,4 +73,4 @@ This section contains a list of projects with brief descriptions.
 
 ## Contacts
 * Linkedin: [https://www.linkedin.com/in/annie-chen-0506/](https://www.linkedin.com/in/annie-chen-0506/)
-* Email: lspss95222@gmail.com
+* Email: anniechensy00@gmail.com
